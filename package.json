@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/emberdart/patchdeck#readme",
   "devDependencies": {
-    "@babel/core": "8.0.0-alpha.5",
+    "@babel/core": "8.0.0-rc.5",
     "@babel/plugin-proposal-function-bind": "8.0.0-alpha.5",
     "@babel/plugin-transform-modules-commonjs": "8.0.0-alpha.5",
     "babel-loader": "^9.2.1",
