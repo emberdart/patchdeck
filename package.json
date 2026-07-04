@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danwdart/patchdeck.git"
+    "url": "git+https://github.com/emberdart/patchdeck.git"
   },
-  "author": "Dan Dart <npm@dandart.co.uk>",
+  "author": "Ember Dart <npm@emberdart.co.uk>",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/danwdart/patchdeck/issues"
+    "url": "https://github.com/emberdart/patchdeck/issues"
   },
-  "homepage": "https://github.com/danwdart/patchdeck#readme",
+  "homepage": "https://github.com/emberdart/patchdeck#readme",
   "devDependencies": {
     "@babel/core": "8.0.0-alpha.5",
     "@babel/plugin-proposal-function-bind": "8.0.0-alpha.5",

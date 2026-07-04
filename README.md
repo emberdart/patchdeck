@@ -1,2 +1,2 @@
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/danwdart/patchdeck.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/emberdart/patchdeck.svg)](https://greenkeeper.io/)
